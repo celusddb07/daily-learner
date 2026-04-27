@@ -427,6 +427,8 @@ with st.sidebar:
         for k in list(st.session_state.keys()):
             del st.session_state[k]
         st.rerun()
+    st.markdown("---")
+    st.caption("© Dr. Diptanil Debbarma")
 
 if "learn_step" not in st.session_state:
     st.session_state.learn_step = "topic_select"
