@@ -1,0 +1,27 @@
+[
+  {
+    "id": "5g_6g",
+    "name": "5G-6G cellular communication",
+    "active": true
+  },
+  {
+    "id": "ml_dl",
+    "name": "Machine learning / Deep Learning",
+    "active": true
+  },
+  {
+    "id": "cii_epo",
+    "name": "Computer Implemented Inventions (CII) before EPO",
+    "active": true
+  },
+  {
+    "id": "upc_decisions",
+    "name": "Unified Patent Court (UPC) recent impactful decisions",
+    "active": true
+  },
+  {
+    "id": "semantic_comm",
+    "name": "Semantic Communication in wireless communication",
+    "active": true
+  }
+]
