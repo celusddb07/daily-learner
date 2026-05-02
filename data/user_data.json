@@ -29,11 +29,40 @@
       ],
       "completed": true,
       "completed_at": "2026-05-02T07:43:02.525153"
+    },
+    {
+      "id": "c6d5e86a-ec0a-4e58-a9a1-44cbe6354c60",
+      "date": "2026-05-02",
+      "topic_id": "ml_dl",
+      "topic_name": "Machine learning / Deep Learning",
+      "subject": "Convolutional Neural Networks for Image Classification",
+      "video_url": "https://www.youtube.com/watch?v=zfiSAzpy9NM",
+      "video_title": "Simple explanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow & Python)",
+      "resources": [
+        {
+          "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+          "url": "https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf"
+        },
+        {
+          "title": "Convolutional Neural Network",
+          "url": "https://en.wikipedia.org/wiki/Convolutional_neural_network"
+        },
+        {
+          "title": "CS231n: Convolutional Neural Networks for Visual Recognition",
+          "url": "https://cs231n.github.io/"
+        },
+        {
+          "title": "Convolutional Neural Networks for Image Classification",
+          "url": "https://www.tensorflow.org/tutorials/images/cnn"
+        }
+      ],
+      "completed": true,
+      "completed_at": "2026-05-02T07:55:30.370556"
     }
   ],
   "monthly_stats": {
     "2026-05": {
-      "subjects_learned": 1,
+      "subjects_learned": 2,
       "won": false
     }
   }
