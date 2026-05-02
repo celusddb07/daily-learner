@@ -1,5 +1,40 @@
 {
   "custom_topics": [],
-  "sessions": [],
-  "monthly_stats": {}
+  "sessions": [
+    {
+      "id": "159c42c5-65f5-47eb-9be6-052686829b46",
+      "date": "2026-05-02",
+      "topic_id": "5g_6g",
+      "topic_name": "5G-6G cellular communication",
+      "subject": "Introduction to 5G New Radio (5G NR) Architecture",
+      "video_url": "https://www.youtube.com/watch?v=m8YkIcDVbGQ",
+      "video_title": "What are 0G, 1G, 2G, 3G, 4G, 5G Cellular Mobile Networks - History of Wireless Telecommunications",
+      "resources": [
+        {
+          "title": "5G NR Architecture",
+          "url": "https://en.wikipedia.org/wiki/5G_NR"
+        },
+        {
+          "title": "3GPP TS 38.300",
+          "url": "https://www.3gpp.org/DynaReport/38300.htm"
+        },
+        {
+          "title": "A Tutorial on 5G NR",
+          "url": "https://arxiv.org/abs/2101.07428"
+        },
+        {
+          "title": "5G New Radio (5G NR) Tutorial",
+          "url": "https://ieeexplore.ieee.org/document/8715573"
+        }
+      ],
+      "completed": true,
+      "completed_at": "2026-05-02T07:43:02.525153"
+    }
+  ],
+  "monthly_stats": {
+    "2026-05": {
+      "subjects_learned": 1,
+      "won": false
+    }
+  }
 }
